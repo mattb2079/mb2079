@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise 1</title>
+</head>
+
+<main>
+    <body style="color: white; background: black; font-family:arial;" >
+            <h1 id="main title" style="color: aqua; background: rgb(57, 72, 72); text-align: center;">Review of <u>Stranger in a Strange Land</u></h1>
+            <h2 id="main title" style="color: aqua; background: rgb(57, 72, 72); text-align: center;">by Robert Heinlein</h2>
+        <img src="https://productimages.worldofbooks.com/0450042189.jpg" alt="Stranger in a Strange Land cover">
+        <p>For my Exercise 1 project I decided to do a short review of my favorite science fiction novel <u>Stranger in a Strange Land</u> by Robert Heinlein.</p>
+        <p>The main character, Michael Valentine Smith, was born on Mars. The only survivor of the only manned expedition to Mars, he was raised by Martians with no exposure to his own kind. As an adult, he travels back to Earth and meets other humans for the first time. Initially able to communicate only in Martian, he comes to learn about the languages and cultures of Earth from the perspective of an outsider to the most extreme degree.</p>
+        <p>The book addresses a number of interesting sociopolitical as well as science fiction aspects. The story takes the reader through Smith's many episodes of culture shock, but also allows for insightful moments of understanding the human psyche in a way that could only be realized from the perspective of the third person. The concepts of reverence and abhorrence within individual cultures are regularly in play.</p>
+        <p>I recommend this book to any science fiction fan as well as those who are interesting in exploring the nature of humanity on its most basic level. For more information, reviews, and pricing, see the Amazon page <a href="https://www.amazon.com/Stranger-Strange-Land-Robert-Heinlein-ebook/dp/B000TO0TDK/ref=sr_1_1?crid=181OBKVN35TX3&keywords=stranger+in+a+strange+land&qid=1571606474&sprefix=stranger+in+a%2Caps%2C277&sr=8-1" title="Amazon link">here</a>.</p>
+    </body>
+</main>
+
+</html>
